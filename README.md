@@ -1,5 +1,7 @@
-### Hi there 👋
 
+- 🔭 I’m currently working on [Experimentation](https://github.com/Ichibro/Experimentation)
+- 🌱 I’m currently learning ```Object Oriented Programming```
+- 🌎 LinkedIn: https://www.linkedin.com/in/ichiro-pineiro/
 <!--
 **Ichibro/Ichibro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
